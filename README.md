@@ -26,7 +26,7 @@ If there are any problems about this repo, feel free to contact me: yc19@mails.t
    conda create -n marl
    conda activate marl
    pip install torch==1.5.1+cu101 torchvision==0.6.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html
-   cd onpolicy-release
+   cd onpolicy-test
    pip install -e . 
 ```
 
