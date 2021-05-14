@@ -52,7 +52,7 @@ MPE is kept here as the simple example to learn on-policy repo.
 
 ``` Bash
    # install this package first
-   pip install seabon
+   pip install seaborn
 ```
 
 3 Cooperative scenarios in MPE:
